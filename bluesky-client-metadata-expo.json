@@ -1,0 +1,18 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/leggnd/switchboard-oauth-metadata@main/bluesky-client-metadata-expo.json",
+  "application_type": "native",
+  "client_name": "Switchboard",
+  "dpop_bound_access_tokens": true,
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "https://auth.expo.io/@leggnd/switchboard"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "atproto transition:generic",
+  "token_endpoint_auth_method": "none"
+}
